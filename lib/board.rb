@@ -1,5 +1,5 @@
 # Define the variable board below.
-9.times do
- x=" "
+3.times do
+ x=[" ", " ", " "] 
  p x
 end
