@@ -1,3 +1,4 @@
 # Define the variable board below.
-puts="board"
-"board"=[" " , " " , " " , " " , " " , " " , " " , " " , " "]
+9.times do
+ x= " "
+end
